@@ -2,5 +2,5 @@
 - 👀 I’m interested to become programmer
 - 🌱 I’m currently learning javascript,c,c++
 - 💞️ I’m looking forward for your guidneness.
-- email:- ganeshwanix@gamil.com
+- email:-Ramwani5115@gamil.com
 
